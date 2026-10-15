@@ -1,0 +1,14 @@
+[
+  {
+    "digit": 7,
+    "prompt": "Create a realistic close-up smartphone photograph for a handwritten digit recognition experiment. A single handwritten Arabic digit SEVEN (7), drawn casually with a black felt-tip pen in the center of a plain off-white small sheet of paper. Include a short crossbar across the 7, natural slightly uneven handwriting, mild oblique viewing angle 8 degrees, soft warm indoor light, subtle paper texture and faint shadow at an edge. The only ink on the whole image is this one digit, no text, no labels, no other objects, no borders. Digit takes roughly half the image height, generous clean paper surrounding it, entire digit visible, approximately square framing. This is a synthetic test photograph, not MNIST style. No watermark."
+  },
+  {
+    "digit": 8,
+    "prompt": "Generate a realistic smartphone close-up photo, square framing. A single casually handwritten Arabic numeral EIGHT (8) made with a blue ballpoint pen on otherwise blank white unlined paper. Handwriting imperfect, upper loop slightly smaller than lower loop, some variable pen pressure and one short retraced stroke. Soft cool daylight, mild diagonal paper shadow in one corner, photographed at a slight 12-degree perspective tilt. The numeral is fully visible and occupies about 45 percent of image height, blank margins on all sides. No text, no other numerals, no printed fonts, no hands or objects. For a synthetic digit recognition test. No watermark."
+  },
+  {
+    "digit": 9,
+    "prompt": "Realistic square close-up photograph of a single handwritten Arabic numeral NINE (9) on plain unlined pale cream paper. Written with a moderately thick graphite pencil: a slightly irregular closed oval loop at the top and a long descending gently curved stem, recognizable as 9 but natural imperfect handwriting. Cool mixed indoor lighting, light paper grain, faint diagonal shadow and modest 6-degree tilt. One numeral only, whole numeral visible, occupies around half image height with generous blank paper margins. No text, no labels, no additional marks, no hands, no printed font, no border. Synthetic test photo for a digit classifier; do not imitate clean centered MNIST. No watermark."
+  }
+]
